@@ -5,6 +5,7 @@ Open your terminal and navigate to the project root:
 
 ```bash
 cd path/to/agentic_rag_app
+```
 
 ---
 
@@ -130,5 +131,7 @@ Once the app is running, open **http://localhost:8501** in your browser.
 * **Page 2 (Chatbot Q&A):** Set configuration in the left sidebar and start asking questions.
 * **Page 3 (Evaluation):** Evaluate queries.
 
+---
+
 ℹ️ Note
-This repository is intended exclusively for educational purposes 🎓 and for personal study, within the scope of the TM course.
+This repository is intended exclusively for educational purposes 🎓 and for personal study, within the scope of the ISBI course.
