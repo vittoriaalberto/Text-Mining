@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  rag-app:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/Home  # Monta la cartella locale per vedere le modifiche al codice in tempo reale
+    environment:
+      - .env
+    stdin_open: true
+    tty: true

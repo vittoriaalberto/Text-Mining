@@ -1,0 +1,14 @@
+.venv/
+.env
+Contest_Data/
+# Ignora le cartelle di cache di Python e altre cartelle personali
+__pycache__/
+trash_miei/
+
+# Ignora i file compilati .pyc e .pyo
+*.pyc
+*.pyo
+
+# Ignora i file di log o temporanei comuni
+*.log
+*.tmp
