@@ -1,11 +1,10 @@
-# Agentic RAG App - Setup Guide
+# ⚖️ Agentic RAG App - Setup Guide
 
 ### 0) Go to project folder
 Open your terminal and navigate to the project root:
 
 ```bash
 cd path/to/agentic_rag_app
-```
 
 ---
 
@@ -130,4 +129,6 @@ Once the app is running, open **http://localhost:8501** in your browser.
 * **Page 1 (Welcome page):** Explain how to use the Legal Chatbot app.
 * **Page 2 (Chatbot Q&A):** Set configuration in the left sidebar and start asking questions.
 * **Page 3 (Evaluation):** Evaluate queries.
-```
+
+ℹ️ Note
+This repository is intended exclusively for educational purposes 🎓 and for personal study, within the scope of the TM course.
