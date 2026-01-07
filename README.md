@@ -1,4 +1,3 @@
-```markdown
 # Agentic RAG App - Setup Guide
 
 ### 0) Go to project folder
@@ -131,6 +130,4 @@ Once the app is running, open **http://localhost:8501** in your browser.
 * **Page 1 (Welcome page):** Explain how to use the Legal Chatbot app.
 * **Page 2 (Chatbot Q&A):** Set configuration in the left sidebar and start asking questions.
 * **Page 3 (Evaluation):** Evaluate queries.
-```
-
 ```
