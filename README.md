@@ -1,6 +1,6 @@
 # ⚖️ Agentic RAG App - Setup Guide
 
-### 0) Go to project folder
+### 0) Clone the repository in a folder and Go to project folder
 Open your terminal and navigate to the project root:
 
 ```bash
@@ -9,7 +9,7 @@ cd path/to/agentic_rag_app
 
 ---
 
-## 🛠️ PART 1: COMMON SETUP (Required for both versions)
+## 🛠️ PART 1: COMMON SETUP
 
 Do these steps first, regardless of whether you use Docker or run locally.
 
@@ -98,7 +98,6 @@ docker build -t agentic-rag-app .
 ```
 
 **2. Run Container**
-This command starts the app, uses your `.env` file, and mounts your local `Contest_Data` folder into the container so the app can read it.
 
 *Linux / macOS:*
 
@@ -134,4 +133,4 @@ Once the app is running, open **http://localhost:8501** in your browser.
 ---
 
 ℹ️ Note
-This repository is intended exclusively for educational purposes 🎓 and for personal study, within the scope of the ISBI course.
+This repository is intended exclusively for educational purposes 🎓 and for personal study, within the scope of the TM course.
